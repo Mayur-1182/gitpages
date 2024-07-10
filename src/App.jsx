@@ -2,7 +2,7 @@ import React from "react";
 
 function App() {
   return (
-    <div className="bg-yellow-200">
+    <div className="bg-yellow-700">
       <h1>Github pages live is here</h1>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos culpa
       nam ex?
